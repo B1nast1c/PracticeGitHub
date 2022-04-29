@@ -94,6 +94,18 @@ usuarios
     git commit -m "Probando el Hola Mundo"    
     ```
 
+- git clone
+    - Clona un repositorio remoto como un repositorio local, en el cual se puede hacer push
+    ```sh
+    git clone https://github.com/rescobedoulasalle/test.git
+    ```
+
+- git remote
+    - Persigue un repositorio remoto para hacer push.
+    ```sh
+    git remote add origin https://github.com/rescobedoulasalle/test.git
+    ```
+
 - git push
     - Permite subir archivos al repositorio remoto
     ```sh
