@@ -142,11 +142,16 @@ usuarios
     git diff 6bb6b6e 6bb6b6e
     ```
 
-- git clone
-    - Clona un repositorio remoto desde CERO
+- git branch
+    - Permite ver las ramas existentes o crea una rama alternativa al proyecto principal git branch -a
     ```sh
-    git clone https://github.com/rescobedoulasalle/test.git
+    git branch prueba1
+    git branch
     ```
+    <pre>
+    * main
+    prueba1
+    </pre>
 
 - git checkout
     - Permite regresar a versiones anteriores o saltar a otra rama
@@ -157,8 +162,7 @@ usuarios
 - git pull
     - Permite descargar los cambios del repositorio remoto al directorio local
 
-- git branch
-    - Permite ver las ramas existentes o crea una rama alternativa al proyecto principal git branch -a
+
 
 ## EJERCICIO/PROBLEMA RESUELTO POR EL DOCENTE
 Primer repositorio en GitHub
