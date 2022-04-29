@@ -7,12 +7,11 @@
                 <span style="font-weight:bold;">UNIVERSIDAD LA SALLE</span><br />
                 <span style="font-weight:bold;">FACULTAD DE INGENIERÍAS</span><br />
                 <span style="font-weight:bold;">CARRERA PROFESIONAL DE INGENIERÍA DE SOFTWARE</span>
-            </th>
-            <td></td>
+            </th>            
         </tr>
     </theader>
     <tbody>
-        <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>        
+        <tr><td colspan="2"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>        
     </tbody>
 </table>
 </div>
@@ -23,19 +22,19 @@
 
 <table>
 <theader>
-<tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
+<tr><th colspan="2">INFORMACIÓN BÁSICA</th></tr>
 </theader>
 <tbody>
 
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Git - GitHub</td></tr>
-<tr><td>RECURSOS A UTILIZAR:
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td>Git - GitHub</td></tr>
+<tr><td colspan="2">RECURSOS A UTILIZAR:
 <ul>
 <li><a href="https://guides.github.com/">https://guides.github.com/</a></li>
 <li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>
 </ul>
 </td>
 </<tr>
-<tr><td colspan="6">DOCENTES:
+<tr><td colspan="2">DOCENTES:
 <ul>
 <li>Richart Smith Escobedo Quispe (r.escobedo@ulasalle.edu.pe)</li>
 </ul>
@@ -74,7 +73,7 @@ usuarios
     - Establece variables de configuración. Por ejemplo para los commits se necesita los datos del desarrollador. Se puede especificar el editor y hasta el tiempo que deseas almacenar tus credenciales en la cache y otras cosas más
     ```sh
     git config --global user.name "Richart Smith Escobedo Quispe"
-    git config --global user.email r.escobedo@unsa.edu.pe
+    git config --global user.email r.escobedo@ulasalle.edu.pe
     git config --list
     git config user.name
     git config --global core.editor "code --wait"
@@ -150,7 +149,7 @@ Primer repositorio en GitHub
 - Crearemos un repositorio local usando git init
     ```sh
     pwd
-    /home/richart/unsa/proyecto
+    /home/richart/ulasalle/proyecto
     git init
     ```
 
