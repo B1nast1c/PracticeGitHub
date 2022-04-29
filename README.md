@@ -6,6 +6,7 @@
             <th>
                 <span style="font-weight:bold;">UNIVERSIDAD LA SALLE</span><br />
                 <span style="font-weight:bold;">FACULTAD DE INGENIERÍAS</span><br />
+                <span style="font-weight:bold;">DEPARTAMENTO DE INGENIERÍA Y MATEMÁTICAS</span><br />
                 <span style="font-weight:bold;">CARRERA PROFESIONAL DE INGENIERÍA DE SOFTWARE</span>
             </th>            
         </tr>
@@ -54,11 +55,6 @@ usuarios
 ## TEMAS
 - Git
 - GitHub
-
-## COMPETENCIAS
-- C.c Diseña responsablemente sistemas, componentes o procesos para satisfacer necesidades dentro de restricciones realistas: económicas, medio ambientales, sociales, políticas, éticas, de salud, de seguridad, manufacturación y sostenibilidad.
-- C.m Construye responsablemente soluciones siguiendo un proceso adecuado llevando a cabo las pruebas ajustada a los recursos disponibles del cliente.
-- C.p Aplica de forma flexible técnicas, métodos, principios, normas, estándares y herramientas de ingeniería necesarias para la construcción de software e implementación de sistemas de información.
 
 # CONTENIDO DE LA GUÍA
 
