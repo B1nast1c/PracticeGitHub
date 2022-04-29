@@ -59,6 +59,16 @@ usuarios
 # CONTENIDO DE LA GUÍA
 
 ## MARCO CONCEPTUAL
+
+- Instalar Git en el ordenador
+
+	- GNU/Linux
+
+	- MS Windows
+		- Descargar Git-2.36.0-64-bit.exe desde https://git-scm.com/download/win
+
+	- MacOS
+
 - git init
     - Crea un nuevo proyecto local, se crean archivos en el directorio oculto .git
     ```sh
