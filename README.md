@@ -156,8 +156,14 @@ usuarios
 - git checkout
     - Permite regresar a versiones anteriores o saltar a otra rama
     ```sh
-    git checkout master
+    git checkout prueba1
+	git branch
     ```
+    <pre>
+    main
+    * prueba1
+    </pre>
+
 
 - git pull
     - Permite descargar los cambios del repositorio remoto al directorio local
