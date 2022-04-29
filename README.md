@@ -129,7 +129,7 @@ usuarios
     ```
     <pre>
     6bb6b6e - Richart Escobedo Quispe, hace 3 minutos : Git - GitHub
-    377418d - Richart Escobedo Quispe, hace 12 minutos : Git - GitHub
+    6bb6b6e - Richart Escobedo Quispe, hace 12 minutos : Git - GitHub
     b36a9fd - Richart Escobedo Quispe, hace 14 minutos : Git - GitHub
     e86aac8 - Richart Escobedo Quispe, hace 22 minutos : Git - GitHub
     e58f653 - Richart Escobedo Quispe, hace 31 minutos : first commit
@@ -139,7 +139,7 @@ usuarios
 - git diff
     - Permite comparar los cambios en los archivos
     ```sh
-    git diff
+    git diff 6bb6b6e 6bb6b6e
     ```
 
 - git clone
