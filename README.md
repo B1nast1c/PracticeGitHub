@@ -127,6 +127,14 @@ usuarios
     git log --pretty=format:"%h - %an, %ar : %s"
     git log -p -2
     ```
+    <pre>
+    6bb6b6e - Richart Escobedo Quispe, hace 3 minutos : Git - GitHub
+    377418d - Richart Escobedo Quispe, hace 12 minutos : Git - GitHub
+    b36a9fd - Richart Escobedo Quispe, hace 14 minutos : Git - GitHub
+    e86aac8 - Richart Escobedo Quispe, hace 22 minutos : Git - GitHub
+    e58f653 - Richart Escobedo Quispe, hace 31 minutos : first commit
+    5747062 - Richart Escobedo Quispe, hace 35 minutos : first commit
+    </pre>
 
 - git diff
     - Permite comparar los cambios en los archivos
