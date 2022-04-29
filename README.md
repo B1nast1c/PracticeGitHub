@@ -96,6 +96,9 @@ usuarios
 
 - git push
     - Permite subir archivos al repositorio remoto
+    ```sh
+    git push -u origin main    
+    ```
 
 - git show
     - Muestra detalles del commit actual
