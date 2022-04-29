@@ -85,7 +85,7 @@ usuarios
     - Añade archivos al staging area. El punto "." agrega todos
     ```sh
     git add HolaMundo.java
-    git .
+    git add .
     ```
 
 - git commit
