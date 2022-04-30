@@ -41,6 +41,12 @@
 </ul>
 </td>
 </<tr>
+<tr><td colspan="2">ESTUDIANTE:
+<ul>
+<li>Valeria Alejandra Goyzueta Torres (vgoyzuetat@ulasalle.edu.pe)</li>
+</ul>
+</td>
+</<tr>
 </tdbody>
 </table>
 
@@ -59,7 +65,6 @@ usuarios
 # CONTENIDO DE LA GUÍA
 
 ## MARCO CONCEPTUAL
-
 - Instalar Git en el ordenador
 
 	- GNU/Linux
